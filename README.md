@@ -17,7 +17,7 @@ Kavach Hackathon-2023<br>
 <Strong>SMSGuardian:</strong><br>
 This application helps to verify the users one by one by sending a randomly generated 6-digit OTP.<br>
 
-Concepts used:
+Concepts used:<br>
 • MVVM architecture<br>
 • Online Messaging service (Twilio)<br>
 • API written and hosted on remote server<br>
